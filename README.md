@@ -11,6 +11,7 @@ This project automates testing for a calculator app using Appium and the Robot F
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
+- [Output](#output)
 
 ## Project Overview
 
