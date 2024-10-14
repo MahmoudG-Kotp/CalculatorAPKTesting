@@ -63,16 +63,27 @@ The Mobile Calculator App features three activities:
 # Project Structure
 mobile-calculator-testing/
 │
+
 ├── src/
+
 │   ├── main/
+
 │   │   └── ...
+
 │   └── test/
+
 │       ├── resources/
+
 │       ├── tests/
+
 │       └── page_objects/
+
 │           ├── login_page.py
+
 │           ├── calculator_page.py
+
 │           └── history_page.py
+
 └── README.md
 
 # Contributing
