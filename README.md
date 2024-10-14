@@ -37,26 +37,26 @@ The Mobile Calculator App features three activities:
 
 # Test Cases
 
-## Invalid Login
+### Invalid Login
 - **Test Case 1:** Login should fail with:
   - Wrong credentials
   - Empty credentials
 
-## Valid Login
+### Valid Login
 - **Test Case 2:** Successful login with:
   - **Username:** admin
   - **Password:** 1234
 
-## Arithmetic Operations
+### Arithmetic Operations
 - **Test Case 3:** Validate addition and multiplication results.
 
-## Clear Functionality
+### Clear Functionality
 - **Test Case 4:** Ensure the clear button resets the display.
 
-## History Access
+### History Access
 - **Test Case 5:** Verify the History button opens the calculations history.
 
-## History Deletion
+### History Deletion
 - **Test Case 6:** Confirm deletion of checked calculations from history.
 
 # Project Structure
