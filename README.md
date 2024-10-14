@@ -8,7 +8,6 @@ This project automates testing for a calculator app using Appium and the Robot F
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
 - [Test Cases](#test-cases)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
 - [Output](#output)
@@ -59,32 +58,6 @@ The Mobile Calculator App features three activities:
 
 ### History Deletion
 - **Test Case 6:** Confirm deletion of checked calculations from history.
-
-# Project Structure
-mobile-calculator-testing/
-│
-
-├── src/
-
-│   ├── main/
-
-│   │   └── ...
-
-│   └── test/
-
-│       ├── resources/
-
-│       ├── tests/
-
-│       └── page_objects/
-
-│           ├── login_page.py
-
-│           ├── calculator_page.py
-
-│           └── history_page.py
-
-└── README.md
 
 # Contributing
 Contributions are welcome! Please feel free to submit a pull request.
