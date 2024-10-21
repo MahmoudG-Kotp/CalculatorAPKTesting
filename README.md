@@ -1,6 +1,6 @@
 # Mobile Calculator App Testing
 
-This project automates testing for a calculator app using Appium and the Robot Framework, following the Page Object Model (POM) design pattern for better test organization and maintainability.
+This project automates testing for a calculator app using Appium, following the Page Object Model (POM) design pattern for better test organization and maintainability.
 
 ## Table of Contents
 
@@ -23,7 +23,6 @@ The Mobile Calculator App features three activities:
 ## Technologies Used
 
 - [Appium](http://appium.io/): For automating mobile applications.
-- [Robot Framework](https://robotframework.org/): A generic automation framework.
 - [Java](https://www.java.com/): The programming language used for test development.
 - [Android Studio AVD](https://developer.android.com/studio/run/emulator): For running the Android emulator.
 
