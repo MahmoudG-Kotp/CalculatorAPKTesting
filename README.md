@@ -78,5 +78,5 @@ Feel free to copy and paste this directly into your README file! Let me know if 
 If you need additional changes or another format, let me know!
 
 # [Output](https://drive.google.com/file/d/166n6GIjZQDvpF33qN0tKLFlqIOHo5oL7/view?usp=sharing)🔗👆
-![RunRecord-ezgif](https://github.com/user-attachments/assets/4229bcb8-d990-46cd-9399-c0b1bbe306a2)
+![RunRecord-ezgif](https://github.com/user-attachments/assets/4e595447-eea5-4e26-80f6-ec8bb7b1ca25)
 
